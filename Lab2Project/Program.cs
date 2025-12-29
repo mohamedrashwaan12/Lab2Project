@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Second commit from Lab 3");
+Console.WriteLine("Commit on master - Lab 4");
